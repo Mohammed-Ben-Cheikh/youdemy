@@ -1,0 +1,1 @@
+http://localhost/youdemy/app/js/tailwindcss.js
